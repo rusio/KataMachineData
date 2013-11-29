@@ -54,7 +54,7 @@ public class HeaderParser {
             return Unit.KILO_JOULE;
         }
         if (unit.equals("mm")) {
-            return Unit.MILIMETER;
+            return Unit.MILLIMETER;
         }
         throw new IllegalArgumentException("Unknown type of Unit: " + unit);
     }

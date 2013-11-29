@@ -76,7 +76,7 @@ public class HeaderParserTest {
         assertEquals(2, sensors.size());
         assertEquals("Sensor-1", sensors.get(1).getId());
         assertEquals("Sensor 1", sensors.get(1).getName());
-        assertEquals(Unit.MILIMETER, sensors.get(1).getUnit());
+        assertEquals(Unit.MILLIMETER, sensors.get(1).getUnit());
     }
 
 }
