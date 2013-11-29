@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1374791418347" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJava" value="D:/ccd/dev-settings/conventions-LBM/lindenbaum-helios-formatter.xml" />
+    <option name="selectedJavaProfile" value="lindenbaum-helios" />
+  </component>
+  <component name="EclipseCompilerSettings">
+    <option name="MAXIMUM_HEAP_SIZE" value="256" />
+  </component>
+  <component name="IdProvider" IDEtalkID="6ECC7CD7ED1CB3BDE3B7056DC9BAAF55" />
+  <component name="IvyIDEA.ProjectSettings">
+    <option name="artifactTypeSettings">
+      <ArtifactTypeSettings />
+    </option>
+    <option name="propertiesSettings">
+      <PropertiesSettings />
+    </option>
+  </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="fidel" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
