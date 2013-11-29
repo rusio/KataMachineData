@@ -10,6 +10,9 @@ import domain.Unit;
 
 public class HeaderParserTest {
 
+    // TODO: remove duplication:
+    // HeaderParser parser = new HeaderParser();
+
     @Test(expected = IllegalArgumentException.class)
     public void emptyHeaderIsRejected() {
         HeaderParser parser = new HeaderParser();

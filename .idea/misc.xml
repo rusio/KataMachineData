@@ -14,6 +14,9 @@
   <component name="EclipseCompilerSettings">
     <option name="MAXIMUM_HEAP_SIZE" value="256" />
   </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="IdProvider" IDEtalkID="6ECC7CD7ED1CB3BDE3B7056DC9BAAF55" />
   <component name="IvyIDEA.ProjectSettings">
     <option name="artifactTypeSettings">

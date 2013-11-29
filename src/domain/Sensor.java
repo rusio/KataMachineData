@@ -1,6 +1,10 @@
 package domain;
 
+/**
+ * TODO: comment
+ */
 public class Sensor {
+    // TODO: make this class a value object
     private String id;
     private String name;
     private Unit unit;
