@@ -1,0 +1,27 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'jacoco'
+apply plugin: 'idea'
+
+task cleanAndClear(dependsOn: [
+    cleanEclipse,
+    cleanIdea,
+    cleanIdeaWorkspace,
+    clean
+]) {
+    delete 'bin', 'out'
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '1.8'
+}
+
+repositories {
+   mavenCentral()
+}
+
+
+dependencies {
+   testCompile group: 'junit', name: 'junit', version: '4.8.+'
+}
+

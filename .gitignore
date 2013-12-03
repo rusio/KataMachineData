@@ -1,1 +1,10 @@
-/bin
+# generated files
+bin/
+
+# Configuration folders
+.classpath
+.settings/
+.loadpath
+
+# Gradle properties
+gradle.properties
