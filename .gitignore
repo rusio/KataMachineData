@@ -8,7 +8,9 @@
 
 # Intellij IDEA
 /.idea
-/*.iml
+/KataMachineData.iml
+/KataMachineData.ipr
+/KataMachineData.iws
 
 # Gradle properties
 /gradle.properties
