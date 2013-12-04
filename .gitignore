@@ -1,10 +1,14 @@
 # generated files
-bin/
+/bin/
 
 # Configuration folders
-.classpath
-.settings/
-.loadpath
+/.classpath
+/.settings/
+/.loadpath
+
+# Intellij IDEA
+/.idea
+/*.iml
 
 # Gradle properties
-gradle.properties
+/gradle.properties
